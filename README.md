@@ -1,3 +1,7 @@
+[https://imgur.com/BSVHVkP](https://imgur.com/BSVHVkP)
+
+
+
 # DocBot: Streamlit Application for Document Q&A with Jira Integration
 
 DocBot is a Streamlit web application that allows users to upload PDF documents, create embeddings, and query them in the context of a specific Jira ticket. It leverages ChromaDB for vector storage, Sentence Transformers for embeddings, and Google Gemini for generating responses.
